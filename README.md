@@ -23,6 +23,7 @@ Steps to be carried-out while creating a database and a table...
 # Database Structure
 ![Strcture](https://user-images.githubusercontent.com/55581349/65378231-3bbd9080-dcd3-11e9-9ec6-f34f4022538b.PNG)
 
+**Values after the insertion**
 
 ![Values](https://user-images.githubusercontent.com/55581349/65378188-d6699f80-dcd2-11e9-9f93-2d8d11c6eede.PNG)
 
