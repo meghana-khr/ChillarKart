@@ -21,6 +21,7 @@ Steps to be carried-out while creating a database and a table...
  > mysql> INSERT INTO tab_name (item_id,item_name,qty,price,image,name,phone) VALUES(3,"car",1,10000,"car.jpg",2147483647);
 
 # Database Structure
+![Strcture](https://user-images.githubusercontent.com/55581349/65378231-3bbd9080-dcd3-11e9-9ec6-f34f4022538b.PNG)
 
 
 ![Values](https://user-images.githubusercontent.com/55581349/65378188-d6699f80-dcd2-11e9-9f93-2d8d11c6eede.PNG)
