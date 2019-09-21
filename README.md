@@ -22,7 +22,7 @@ Steps to be carried-out while creating a database and a table...
 
 
 # Database Structure
-
+> mysql> INSERT INTO tab_name (item_id,item_name,qty,price,image,name,phone) VALUES(3,"car",1,10000,"car.jpg",2147483647);
 
 
 
