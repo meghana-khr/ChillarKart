@@ -6,3 +6,10 @@ Consider a person and he was using an item from the longer period of time and he
 # Requirements
 => PHP Runtime
 => Apache Server
+
+# Database Structure
+
+![Items_DatabaseStructure](https://user-images.githubusercontent.com/55581349/65377571-70c5e500-dccb-11e9-9478-1cea0b394b43.PNG)
+
+
+
