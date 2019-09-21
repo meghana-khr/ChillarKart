@@ -18,10 +18,12 @@ Steps to be carried-out while creating a database and a table...
 
 >  mysql> CREATE TABLE tab_name (item_id INT,category VARCHAR(50),qty INT,price INT,ph_num INT);
 
+ > mysql> INSERT INTO tab_name (item_id,item_name,qty,price,image,name,phone) VALUES(3,"car",1,10000,"car.jpg",2147483647);
+
 
 # Database Structure
 
-![Items_DatabaseStructure](https://user-images.githubusercontent.com/55581349/65377571-70c5e500-dccb-11e9-9478-1cea0b394b43.PNG)
+
 
 
 
