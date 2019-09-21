@@ -7,6 +7,15 @@ Consider a person and he was using an item from the longer period of time and he
 => PHP Runtime
 => Apache Server
 
+# Creation of Database & Table
+Steps to be carried-out while creating a database and a table...
+
+
+
+
+
+
+
 # Database Structure
 
 ![Items_DatabaseStructure](https://user-images.githubusercontent.com/55581349/65377571-70c5e500-dccb-11e9-9478-1cea0b394b43.PNG)
