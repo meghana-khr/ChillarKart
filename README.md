@@ -10,9 +10,12 @@ Consider a person and he was using an item from the longer period of time and he
 # Creation of Database & Table
 Steps to be carried-out while creating a database and a table...
 
-mysql> CREATE DATABASE database_name;
-mysql> USE database_name ;
-mysql> CREATE TABLE tab_name (item_id INT,category VARCHAR(50),qty INT,price INT,ph_num INT);
+> mysql> CREATE DATABASE database_name;
+
+>  mysql> USE database_name ;
+
+>  mysql> CREATE TABLE tab_name (item_id INT,category VARCHAR(50),qty INT,price INT,ph_num INT);
+
 
 # Database Structure
 
